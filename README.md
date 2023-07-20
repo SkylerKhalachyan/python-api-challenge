@@ -9,7 +9,7 @@
 
 ### User Set Up
 #
-To create a copy ready to perform on your local computer follow these simple steps.
+To create a copy that is ready to perform on your local computer follow these simple steps.
 
 #### Prerequisites
 *
