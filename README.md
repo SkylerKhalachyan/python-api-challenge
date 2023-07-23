@@ -54,7 +54,7 @@ For this project, you will use the below-listed Python libraries. If you do not 
 * Author: Skyler Khalachyan
 * Contributors:
      - Study Groups: Collaborated with multiple students to better understand the project.
-     - Students: @VinnyShankar , Jesus Jimenez , @hanydief
+     - Students: [Vinny Shankar](https://github.com/vinnyshankar), [Jesus Jimenez](https://github.com/JesusJimenez3318), [Hany Dief](https://github.com/hanydief)
      - Program: UC Berkeley Extension Data Analytics Bootcamp 
      - Starter Code: Starter code was provided. 
      - Instructor: Ahmad Sweed 
