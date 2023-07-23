@@ -58,7 +58,7 @@ For this project, you will use the below-listed Python libraries. If you do not 
      - Program: UC Berkeley Extension Data Analytics Bootcamp 
      - Starter Code: Starter code was provided. 
      - Instructor: Ahmad Sweed 
-     - Tutor: Marc Calache 
+     - Tutor: [Marc Calache](https://github.com/CalacheMarc) 
      - Reference Data:
        - 	https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
        - 	https://github.com/othneildrew/Best-README-Template/tree/master
