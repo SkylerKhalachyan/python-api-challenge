@@ -34,27 +34,36 @@ For this project, you will use the below-listed Python libraries. If you do not 
 
   
 #### Installation
-1. Get a free API key from this site: https://openweathermap.org/api
-2. You will also need an API key from this site: https://apidocs.geoapify.com/
-3. Install the above packages
-4. Enter your API into an api_keys.py file
+1. Get a free API key from the following (2) sites:
+    -   https://openweathermap.org/api
+    -   https://apidocs.geoapify.com/
+2. Install the above packages
+3. Enter your API into an api_keys.py file
    ```
    weather_api_key = "ENTER YOUR API KEY HERE"
    geoapify_api_key = "ENTER YOUR API KEY HERE"
 
 ### Usage
-#
+# 
+* Vacation Planning      
+* Crop Planning
+* Relocation Planning
+
 ### Acknowledgements
 #
-* Author: @SkylerKhalachyan
+* Author: Skyler Khalachyan
 * Contributors:
      - Study Groups: Collaborated with multiple students to better understand the project.
-     - Students:
-     - Program:
-     - Starter Code:
-     - Instructor:
-     - Tutor:
+     - Students: @VinnyShankar , Jesus Jimenez , @hanydief
+     - Program: UC Berkeley Extension Data Analytics Bootcamp 
+     - Starter Code: Starter code was provided. 
+     - Instructor: Ahmad Sweed 
+     - Tutor: Marc Calache 
      - Reference Data:
+       - 	https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+       - 	https://github.com/othneildrew/Best-README-Template/tree/master
+       - 	https://www.markdownguide.org/basic-syntax/#reference-style-links
+         
 
 
 
