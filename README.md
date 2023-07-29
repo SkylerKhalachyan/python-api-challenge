@@ -57,13 +57,14 @@ For this project, you will use the below-listed Python libraries. If you do not 
      - Students: [Vinny Shankar](https://github.com/vinnyshankar), [Jesus Jimenez](https://github.com/JesusJimenez3318), [Hany Dief](https://github.com/hanydief)
      - Program: UC Berkeley Extension Data Analytics Bootcamp 
      - Starter Code: Starter code was provided. 
-     - Instructor: Ahmad Sweed 
+     - Instructor: [Ahmad Sweed](https://github.com/ahmadswd) 
      - Tutor: Marc Calache 
      - Reference Data:
        - 	https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
        - 	https://github.com/othneildrew/Best-README-Template/tree/master
        - 	https://www.markdownguide.org/basic-syntax/#reference-style-links
          
+
 
 
 
